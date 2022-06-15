@@ -1,0 +1,20 @@
+---
+- name: Staring out
+  hosts: dockerhost
+    #become: true
+  tasks:
+  - name: Stopping the old contatiner
+    command: docker stop webapp
+    ignore_errors: yes
+
+  - name: Removing the halted container
+    command: docker rm webapp
+    ignore_errors: yes
+
+  - name: Removing the old Image
+    command: docker rmi tanish123/webapp:v1
+    ignore_errors: yes
+
+  - name: Spinning off the new container
+    command: docker run -d -p 8080:8080 --name webapp tanish123/webapp:v1
+

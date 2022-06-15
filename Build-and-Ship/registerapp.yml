@@ -1,0 +1,19 @@
+---
+- name: build
+  hosts: local
+  tasks:
+  - name: Deleting the old image
+    command: docker rmi myapp:v1 tanish123/webapp:v1
+    ignore_errors: yes
+
+  - name: Trying to build the app
+    command: docker build -t myapp:v1 .
+    args:
+      chdir: /opt/app
+
+  - name: tagging the image
+    command: docker tag myapp:v1 tanish123/webapp:v1
+
+  - name: pushing the image to dockerhub.com
+    command: docker push tanish123/webapp:v1
+
