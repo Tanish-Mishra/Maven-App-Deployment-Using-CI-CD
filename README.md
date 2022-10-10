@@ -35,7 +35,7 @@
 Check out the website: [Webapp Maven Application](http://44.206.13.42:8080/webapp/)
 <ol>
   <li>Project Description
-        <p>Hi 👋, This Project is about Maven Webapp Deployment by using the Continuous Integration and Continuous Deployment Infrastructure settled on the Jenkins Automation Server!.We are going to Build,Test and Deploy the Application on the Deployment Server which can be further modified by Anyone by forking the repository and make the changes to it then after raise the Pull Request which will be inspected to be merged after being merged(Steps Described Ahead in additon to do the changes to the Project) we will be able to see the Jenkins Job be triggered up by the github webhook In order to actual montior the Jenkins Job visit <a href = "http://34.234.171.212:8080"> Click Here </a> Login by Credentials given as follows -
+        <p>Hi 👋, This Project is about Maven Webapp Deployment by using the Continuous Integration and Continuous Deployment Infrastructure settled on the Jenkins Automation Server!.We are going to Build,Test and Deploy the Application on the Deployment Server which can be further modified by Anyone by forking the repository and make the changes to it then after raise the Pull Request which will be inspected to be merged after being merged(Steps Described Ahead in additon to do the changes to the Project) we will be able to see the Jenkins Job be triggered up by the github webhook In order to actually montior the Jenkins Job visit <a href = "http://34.234.171.212:8080"> Click Here </a> Login by Credentials given as follows -
     <div> 
       <b> Username - </b> <em> guest </em>
       <br>
@@ -47,7 +47,7 @@ Check out the website: [Webapp Maven Application](http://44.206.13.42:8080/webap
     <p> <b> As the Job Completes It triggers the Continuous Deployment Job </b> </p>
     2.Click on the Continuous Deployment Job
     <img src="/jobs/Job2.PNG" height="80px" width="100%">
-    <p> <b> Eventually,This Job Deploys the application on the Tomcat Container Deployment Server </b> </p>
+    <p> <b> Eventually,This Job Deploys the Application on the Tomcat Container Deployment Server </b> </p>
     <hr>
         This application consists of the following components:
         <ul>
@@ -181,8 +181,8 @@ Please make sure you have the correct access rights and the repository exists.
 
 - Your pull request will be reviewed and then eventually merged.
 
-Hurray! You successfully have made your Changes Pushed Now kindly,visit <a href="http://44.206.13.42:8080/webapp/">Click Here</a> to see your changes! 🎉
-### NOTE: You will be Informed with message at what time your changes are going to be merged so that you can visit and see the Jenkins Job working in the Console Output ! Till then Be Patient !
+Hurray! You successfully have made your Changes and also pushed them; Now you may,visit <a href="http://44.206.13.42:8080/webapp/">Click Here</a> to see your changes! 🎉
+### NOTE: You will be Informed with a message that at what time your changes are going to be merged so that you can visit and see the Jenkins Job working in the Console Output ! Till then  Please Be Patient:) !
 
 ---
 
