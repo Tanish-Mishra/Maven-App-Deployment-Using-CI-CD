@@ -9,7 +9,7 @@
     </th>  
     <th> 
         <a href="https://www.jenkins.io/">
-            <img src="https://png2.cleanpng.com/sh/675d43bf25e94963755ffa1c78c25275/L0KzQYm3VcE2N5Duj5H0aYP2gLBuTfpmdpxuhuU2ZHBme7b5TfNwdqVuhud4dYOwdLbzigZmeqoygdD8dHHvfLL7if9vNaR0RadqZnG6SYrsVcMzPmI2RqY9NUe5RoaAUcUzPmQ7TKcCNEO3QIe1kP5o/kisspng-jenkins-docker-continuous-delivery-installation-so-5afa799e532611.4457665715263645743406.png" height="60px" width="90px"  alt="Jenkins" />       
+            <img src="https://www.jenkins.io/images/logos/cute/cute.png" height="60px" width="90px"  alt="Jenkins" />       
         </a>
     </th>
     <th>
