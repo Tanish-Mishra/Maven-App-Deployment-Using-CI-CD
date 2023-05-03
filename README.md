@@ -32,10 +32,10 @@
 
   <h3>👨‍💻Live Version</h3>
 
-Check out the website: [Webapp Maven Application](http://44.206.13.42:8080/webapp/)
+Check out the website: [Webapp Maven Application](http://18.204.15.181:8080/webapp/)
 <ol>
   <li>Project Description
-        <p>Hi 👋, This Project is about Maven Webapp Deployment by using the Continuous Integration and Continuous Deployment Infrastructure settled on the Jenkins Automation Server!.We are going to Build,Test and Deploy the Application on the Deployment Server which can be further modified by Anyone by forking the repository and make the changes to it then after raise the Pull Request which will be inspected to be merged after being merged(Steps Described Ahead in additon to do the changes to the Project) we will be able to see the Jenkins Job be triggered up by the github webhook In order to actually montior the Jenkins Job visit <a href = "http://18.234.209.199:8080"> Click Here </a> Login by Credentials given as follows -
+        <p>Hi 👋, This Project is about Maven Webapp Deployment by using the Continuous Integration and Continuous Deployment Infrastructure settled on the Jenkins Automation Server!.We are going to Build,Test and Deploy the Application on the Deployment Server which can be further modified by Anyone by forking the repository and make the changes to it then after raise the Pull Request which will be inspected to be merged after being merged(Steps Described Ahead in additon to do the changes to the Project) we will be able to see the Jenkins Job be triggered up by the github webhook In order to actually montior the Jenkins Job visit <a href = "http://52.6.142.49:8080"> Click Here </a> Login by Credentials given as follows -
     <div> 
       <b> Username - </b> <em> guest </em>
       <br>
